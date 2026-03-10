@@ -1,13 +1,13 @@
-name: Hola mundo Workflow
+name: Hola mundo Workflow este es el original
 
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Paso Hola mundo
-              run: echo "Hola mundo desde GitHub Actions"
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Paso Hola mundo
+        run: echo "Hola mundo desde GitHub Actions"
