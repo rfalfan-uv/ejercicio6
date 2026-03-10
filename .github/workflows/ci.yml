@@ -25,6 +25,6 @@ jobs:
 
       - name: Build del proyecto
         run: dotnet build src/Api/Api.csproj --configuration Release
-
-     - name: Mensaje Final
-        run: echo "Proceso de CI finalizado para la rama main"
+      
+      - name: Run terminado    
+        run : echo "terminado" 
