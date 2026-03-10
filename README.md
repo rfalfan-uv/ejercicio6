@@ -34,3 +34,4 @@ Jimmy Javier
 
 > Información sobre Github Actions se agregará durante el curso.
 # ejercicio6
+# ejercicio6
